@@ -49,8 +49,6 @@ Users should be able to:
 
 I learned to use CSS Grid to position items in a 2-dimensional format. I also learned to use fetch and asynchronous programming to get data from an API and make use of the data. Also, I learned to use the prefers-color-scheme property of CSS to customize the look of the web app according to the user's system preferences.
 
-To see how you can add code snippets, see below:
-
 ```css
 @media (prefers-color-scheme: light) {
     #light {
